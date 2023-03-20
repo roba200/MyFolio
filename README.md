@@ -2,6 +2,8 @@
 
 A Flutter project.
 
+MyFolio is a mobile application built with Flutter, designed to showcase individuals' career, education, and skills. The app utilizes Firebase as a backend, with Firebase Authentication for secure user authentication and Firebase Storage for efficient storage of user data. With MyFolio, users can create a personalized portfolio that highlights their accomplishments and professional experience. This app is perfect for job seekers who want to make a great first impression on potential employers or for professionals who want to showcase their skills to colleagues and peers.
+
 
 ![WhatsApp Image 2023-03-20 at 2 27 50 PM](https://user-images.githubusercontent.com/78271793/226318650-944de42a-8f53-4e56-9d39-06feb03a76ce.jpeg)
 ![WhatsApp Image 2023-03-20 at 2 27 51 PM](https://user-images.githubusercontent.com/78271793/226318654-baabf965-f700-4119-a9d8-e169c8b73928.jpeg)
